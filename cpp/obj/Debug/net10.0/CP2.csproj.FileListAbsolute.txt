@@ -1,0 +1,14 @@
+/Users/jamesmadoc/Desktop/projects/cpp/bin/Debug/net10.0/CP2
+/Users/jamesmadoc/Desktop/projects/cpp/bin/Debug/net10.0/CP2.deps.json
+/Users/jamesmadoc/Desktop/projects/cpp/bin/Debug/net10.0/CP2.runtimeconfig.json
+/Users/jamesmadoc/Desktop/projects/cpp/bin/Debug/net10.0/CP2.dll
+/Users/jamesmadoc/Desktop/projects/cpp/bin/Debug/net10.0/CP2.pdb
+/Users/jamesmadoc/Desktop/projects/cpp/obj/Debug/net10.0/CP2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesmadoc/Desktop/projects/cpp/obj/Debug/net10.0/CP2.AssemblyInfoInputs.cache
+/Users/jamesmadoc/Desktop/projects/cpp/obj/Debug/net10.0/CP2.AssemblyInfo.cs
+/Users/jamesmadoc/Desktop/projects/cpp/obj/Debug/net10.0/CP2.csproj.CoreCompileInputs.cache
+/Users/jamesmadoc/Desktop/projects/cpp/obj/Debug/net10.0/CP2.dll
+/Users/jamesmadoc/Desktop/projects/cpp/obj/Debug/net10.0/refint/CP2.dll
+/Users/jamesmadoc/Desktop/projects/cpp/obj/Debug/net10.0/CP2.pdb
+/Users/jamesmadoc/Desktop/projects/cpp/obj/Debug/net10.0/CP2.genruntimeconfig.cache
+/Users/jamesmadoc/Desktop/projects/cpp/obj/Debug/net10.0/ref/CP2.dll
